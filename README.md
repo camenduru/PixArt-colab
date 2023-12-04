@@ -9,7 +9,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PixArt-colab/blob/main/PixArt_512_colab.ipynb) | PixArt_512_colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PixArt-colab/blob/main/PixArt_LCM_colab.ipynb) | PixArt_LCM_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PixArt-colab/blob/main/PixArt_LCM_colab.ipynb) | PixArt_LCM_colab (Pro Colab 😭)
 
 ## Main Repo
 https://github.com/PixArt-alpha/PixArt-alpha
